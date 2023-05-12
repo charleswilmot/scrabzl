@@ -1,0 +1,10 @@
+dictionaries/*.pkl
+tmp
+src/__pycache__/
+src/clean_dictionary_english.py
+src/clean_dictionary_french.py
+src/scrabzl_after.py
+src/scrabzl_before.py
+src/scrabzl_old.py
+src/scrabzl_sat.py
+src/solve.py
